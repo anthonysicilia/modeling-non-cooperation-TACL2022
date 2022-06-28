@@ -21,10 +21,15 @@ Arguments for `train_oracle_dim.py` are identical to the counterpart in the Coop
 
 ### Helpful Links
 Our Proposal (Non-Cooperative Setting): Forthcoming
+
 Non-Cooperative Data: Forthcoming
+
 Code for Cooperative Setting: https://github.com/GuessWhatGame/guesswhat
+
 Cooperative Setting Data Proposal: https://openaccess.thecvf.com/content_cvpr_2017/papers/de_Vries_GuessWhat_Visual_Object_CVPR_2017_paper.pdf
+
 Cooperative Setting Model Proposal: https://www.ijcai.org/proceedings/2017/0385.pdf
+
 PyTorch Implementation of Cooperative Setting: https://github.com/shekharRavi/Beyond-Task-Success-NAACL2019
 
 ### Citation
