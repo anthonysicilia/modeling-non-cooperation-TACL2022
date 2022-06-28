@@ -5,7 +5,7 @@ The code to reproduce experiments is given in this repository and the data will 
 
 ## Code
 ### Dependencies / Cooperative Setting
-This repository is highly dependent on existing implementations for GuessWhat?! in the Cooperative Setting. Specifically, see [this repository](https://github.com/GuessWhatGame/guesswhat) provided by [Strub et al.](https://www.ijcai.org/proceedings/2017/0385.pdf) and [De Vries et al.](https://openaccess.thecvf.com/content_cvpr_2017/papers/de_Vries_GuessWhat_Visual_Object_CVPR_2017_paper.pdf). **Before running the code as described below, one should complete the steps required of this dependency** (i.e., see ```README-dependency.md``` or the original README provided by the dependency). We have already copied over required submodules and code, so these steps can be followed within our repository without making changes to the code (e.g., besides resolving small version issues). 
+This repository is highly dependent on existing implementations for GuessWhat?! in the Cooperative Setting. Specifically, see [this repository](https://github.com/GuessWhatGame/guesswhat) provided by [Strub et al.](https://www.ijcai.org/proceedings/2017/0385.pdf) and [De Vries et al.](https://openaccess.thecvf.com/content_cvpr_2017/papers/de_Vries_GuessWhat_Visual_Object_CVPR_2017_paper.pdf). **Before running the code as described below, one should complete the steps required of this dependency and establish an identical experimental environment** (i.e., see ```README-dependency.md``` or the original README provided by the dependency). We have already copied over required submodules and code, so these steps can be followed within our repository without making changes to the code (e.g., besides resolving small version issues). 
 
 You can skip RL training for QGen, since our code modifies this part. We have also included some redundant data in our OSF storage, so some steps may be skipped. 
 
@@ -31,3 +31,6 @@ PyTorch Implementation of Cooperative Setting: https://github.com/shekharRavi/Be
 If you use our implementation or ideas for the non-cooperative setting, please cite out paper (forthcoming).
 
 Please also provide appropriate citation for the original cooperative setting.
+
+### Comments and Concerns
+If you run into issues with the code or data, don't hesitate to contact us directly using the emails provided on our publication. You can also raise issues here.
