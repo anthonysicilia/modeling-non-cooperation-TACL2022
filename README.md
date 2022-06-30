@@ -1,7 +1,7 @@
 # modeling-non-cooperation-tacl2022
 This is the code repository for the paper "Modeling Non-Cooperative Dialogue: Theoretical and Empirical Insights" to appear in TACL.
 
-The code to reproduce experiments is given in this repository and the data will be made available soon on OSF.
+The code to reproduce experiments is given in this repository and the data is available soon on [OSF](https://osf.io/2k6vu/).
 
 ## Code
 ### Dependencies / Cooperative Setting
@@ -22,7 +22,7 @@ Arguments for `train_oracle_dim.py` are identical to the counterpart in the Coop
 ### Helpful Links
 Our Proposal (Non-Cooperative Setting): Forthcoming
 
-Non-Cooperative Data: Forthcoming
+Non-Cooperative Data: https://osf.io/2k6vu/
 
 Code for Cooperative Setting: https://github.com/GuessWhatGame/guesswhat
 
