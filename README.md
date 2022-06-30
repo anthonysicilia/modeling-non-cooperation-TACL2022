@@ -20,8 +20,6 @@ To train the non-cooperative oracle and train QGen using RL in the non-cooperati
 Arguments for `train_oracle_dim.py` are identical to the counterpart in the Cooperative Setting `train_oracle.py` besides the data directory. We provide some example scripts in ```oracle-examples.sh```. The script ```qgen-rl-examples.sh``` provides commands to run `train_qgen_reinforce_2oracle_w_guesser.py` as well.
 
 ### Helpful Links
-Our Proposal (Non-Cooperative Setting): Forthcoming
-
 Non-Cooperative Data: https://osf.io/2k6vu/
 
 Code for Cooperative Setting: https://github.com/GuessWhatGame/guesswhat
